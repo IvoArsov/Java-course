@@ -11,6 +11,13 @@ public class AssignVariables {
         byte sixthNum = 127;
 
         System.out.println(bool);
-        
+        System.out.println(cityName);
+        System.out.println(firstNum);
+        System.out.println(secondNum);
+        System.out.println(thrirdNum);
+        System.out.println(forthNum);
+        System.out.println(fifthNum);
+        System.out.println(sixthNum);
+
     }
 }
